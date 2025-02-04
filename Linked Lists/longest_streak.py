@@ -14,7 +14,7 @@ def longest_streak(head):
     #     return 0
 
     # count = 1
-    # max_count = 1
+    max_count = 1
     # current = head
 
     # while current.next is not None:
@@ -26,4 +26,4 @@ def longest_streak(head):
     #         count = 1
     #     current = current.next
 
-    # return max_count
+    return max_count
