@@ -28,4 +28,4 @@ def remove_node(head, target_val):
 #       return head
 #     current = current.next
 
-#   return head
+   return head
